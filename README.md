@@ -49,6 +49,7 @@ print(np.array([1, 2, 3]) ** 2)
 ### 我可以在Pycharm上使用我建立的虚拟环境
 <img width="1016" height="536" alt="pycharm" src="https://github.com/user-attachments/assets/392f1a85-ea5a-4d0e-be6f-21bf645782ab" />
 
+[烟花亦逝，人情长存！]
 
 ![1774195641278f25b545c8b56364f36d5247d39ca1c869ecd](https://github.com/user-attachments/assets/7e81fd9c-2ad0-41e7-94fb-02abe19181b9)
-[烟花亦逝，人情长存！]
+
