@@ -1,6 +1,6 @@
 # 宵宫姐姐的自我介绍
 
-<![17741953816102dcc29361604eda6b612d4a23875e0b44779](https://github.com/user-attachments/assets/708fa88d-4e5c-4a59-b56c-594a4baebe3c)>
+![17741953816102dcc29361604eda6b612d4a23875e0b44779](https://github.com/user-attachments/assets/708fa88d-4e5c-4a59-b56c-594a4baebe3c)
 
 
 大家好，我是**章鱼哥**，我的身份是*蟹堡王的收银员*。以下是我的自我介绍：
